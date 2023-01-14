@@ -1,2 +1,2 @@
 # newyear
-https://nasyaoy.github.io/newyear/
+https://nasyaoy.github.io/newyear
